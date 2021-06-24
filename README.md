@@ -3,5 +3,3 @@
 Created with CodeSandbox--
 Using React-js--
 Web app
-link to my site:
-https://csb-rlrjz.netlify.app/
