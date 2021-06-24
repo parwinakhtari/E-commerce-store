@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import logo from "../logo.png";
+import logo from "../logo.jpg";
 import styled from "styled-components";
 import { ButtonContainer } from "./Button";
 
@@ -16,9 +16,9 @@ https://www.iconfinder.com/Makoto_msk */}
           <img src={logo} alt="store" className="navbar-brand" />
         </Link>
         <ul className="navbar-nav align-items-center">
-          <li className="nav-item ml-5">
+          <li className="nav-item">
             <Link to="/" className="nav-link">
-              Mob Store
+              Zenith
             </Link>
           </li>
         </ul>
