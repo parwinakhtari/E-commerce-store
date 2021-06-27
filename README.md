@@ -1,5 +1,4 @@
 # Zenith
 ### Zenith is an E-commerce-store containing mobile products
-Created with CodeSandbox--
+It's a Web app, Created with CodeSandbox --
 Using React-js--
-Web app
